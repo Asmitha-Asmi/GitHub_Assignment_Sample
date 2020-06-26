@@ -1,4 +1,4 @@
-# Feature-1 #typo fixed
+# Feature-1 #typo fixed properly
 # Feature-2
 # Feature-3
-# Feature-3 extended
+# Feature-3 extended 
